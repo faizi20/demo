@@ -1,0 +1,31 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16.133" cy="15.813" r="15" fill="#040D12"/>
+    <circle cx="16.133" cy="15.813" r="14.5" fill="url(#sywsg3qo4a)" stroke="#D35722"/>
+    <g style="mix-blend-mode:overlay">
+        <circle cx="16.133" cy="20.251" r="9.068" fill="url(#rtgnz08j7b)"/>
+        <circle cx="16.133" cy="20.251" r="9.068" stroke="#fff"/>
+    </g>
+    <g style="mix-blend-mode:overlay">
+        <path d="M21 20.252c0 2.286-.581 4.332-1.495 5.791-.919 1.466-2.124 2.275-3.372 2.275-1.249 0-2.454-.809-3.372-2.275-.915-1.459-1.496-3.505-1.496-5.791 0-2.287.581-4.333 1.496-5.792.918-1.466 2.123-2.275 3.372-2.275 1.248 0 2.453.809 3.372 2.275C20.419 15.918 21 17.965 21 20.25z" fill="url(#f0zt9h7rxc)"/>
+        <path d="M21 20.252c0 2.286-.581 4.332-1.495 5.791-.919 1.466-2.124 2.275-3.372 2.275-1.249 0-2.454-.809-3.372-2.275-.915-1.459-1.496-3.505-1.496-5.791 0-2.287.581-4.333 1.496-5.792.918-1.466 2.123-2.275 3.372-2.275 1.248 0 2.453.809 3.372 2.275C20.419 15.918 21 17.965 21 20.25z" stroke="#fff"/>
+    </g>
+    <path fillRule="evenodd" clipRule="evenodd" d="M30.521 20.066c.398-1.348.612-2.775.612-4.252 0-8.285-6.716-15-15-15-8.284 0-15 6.715-15 15 0 1.477.213 2.904.611 4.252C3.578 13.853 9.326 9.32 16.133 9.32c6.807 0 12.555 4.534 14.388 10.747z" fill="url(#j2iy5a6sid)" style="mix-blend-mode:overlay"/>
+    <defs>
+        <radialGradient id="sywsg3qo4a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(90 .16 15.973) scale(15)">
+            <stop stop-color="#D35722"/>
+            <stop offset="1" stop-color="#D35722" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="rtgnz08j7b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(90 -2.06 18.192) scale(9.56761)">
+            <stop stop-color="#fff"/>
+            <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="f0zt9h7rxc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 8.56641 -5.36795 0 16.133 20.252)">
+            <stop stop-color="#fff"/>
+            <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="j2iy5a6sid" x1="16.133" y1="2.621" x2="16.133" y2="15.256" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff"/>
+            <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+</svg>
