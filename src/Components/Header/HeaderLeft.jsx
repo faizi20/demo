@@ -1,7 +1,14 @@
+import React, { useEffect, useState } from "react";
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
-import { Link, NavLink, useLocation, useNavigate } from 'react-router-dom';
+import {
+  Link,
+  BrowserRouter as Router,
+  NavLink,
+  useLocation,
+  useNavigate,
+} from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 import i18next from 'i18next';
 
@@ -29,7 +36,7 @@ const HeaderLeft = () => {
             as={Link}
             to="/"
             className="ltr_logo"
-            // activeClassName="active"
+            activeClassName="active"
             // onClick={removeActiveColor}
           >
             <img src={Logo} alt="Logo" />
@@ -46,7 +53,7 @@ const HeaderLeft = () => {
               <NavLink
                 as={Link}
                 to="/"
-                // activeClassName="active"
+                activeClassName="active"
                 className={({ isActive }) =>
                   isActive ? 'customActive' : 'customInActive'
                 }
